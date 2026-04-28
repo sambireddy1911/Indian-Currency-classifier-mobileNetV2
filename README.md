@@ -87,13 +87,13 @@ Academic Citation
 If you use this project in your research, please cite it using the following format:
 
 text
-@misc{charmesh2026indian,
+@misc{sambi2026indian,
   title = {Indian Currency Classifier: MobileNetV2 with Test-Time Augmentation},
-  author = {Ponnagani, Vamshi Charmesh},
+  author = {ARE SAMBI REDDY},
   year = {2026},
   month = {April},
   publisher = {GitHub},
-  howpublished = {\url{https://github.com/charmesh/Indian-Currency-Classifier-MobileNetV2}},
+  howpublished = {\url{https://github.com/sambi/Indian-Currency-Classifier-MobileNetV2}},
   note = {94.0\% validation accuracy, 6000 images, 7 classes}
 }
 Developer: ARE SAMBI REDDY
